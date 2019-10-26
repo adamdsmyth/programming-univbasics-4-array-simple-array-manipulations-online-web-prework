@@ -8,7 +8,7 @@ return array
 end
 def using_pop(array)
 element=array.pop (1)
-return element 
+return element[0]
 end
 
 def pop_with_args(array, addArray)
