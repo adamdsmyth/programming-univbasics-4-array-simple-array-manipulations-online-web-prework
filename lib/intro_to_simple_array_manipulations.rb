@@ -6,10 +6,11 @@ end
 array=array.unshift (string)
 return array 
 end
-def using_pop(array,string)
-array=array.pop (string)
+def using_pop(array)
+array=array.pop ()
 return array 
 end
+
 def using_pop(array, addArray)
 array=array.pop (addArray)
 return array 
