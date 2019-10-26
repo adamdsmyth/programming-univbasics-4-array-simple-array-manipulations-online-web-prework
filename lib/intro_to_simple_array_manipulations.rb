@@ -10,7 +10,7 @@ def using_pop(array,string)
 array=array.pop (string)
 return array 
 end
-def using_push(array,string)
-array=array.push (string)
+def using_pop(array, addArray)
+array=array.pop (addArray)
 return array 
 end
