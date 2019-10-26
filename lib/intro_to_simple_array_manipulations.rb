@@ -7,7 +7,8 @@ array=array.unshift (string)
 return array 
 end
 def using_pop(array)
-array=array.pop ()
+  element
+elemnt=array.pop ()
 return array 
 end
 
